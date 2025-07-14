@@ -36,7 +36,7 @@ A modern, intuitive form builder application built with React and TypeScript, fe
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dl249995/my-form-builder-fillout.git
    cd form-builder
    ```
 
@@ -222,8 +222,8 @@ If you encounter any issues or have questions:
 
 <div align="center">
 
-**Built with ❤️ using React + TypeScript + Vite**
+**Built by Diego with ❤️ using React + TypeScript + Vite**
 
-[Demo](https://your-demo-link.com) • [Documentation](https://your-docs-link.com) • [Report Bug](../../issues) • [Request Feature](../../issues)
+[Demo](https://my-form-builder-fillout.vercel.app/) • [Request Feature](../../issues)
 
 </div>

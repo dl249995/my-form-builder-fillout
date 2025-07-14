@@ -1,6 +1,5 @@
 // components/FormBuilder.tsx
 import React, { useState, useRef, useEffect } from "react";
-import { Info, FileText, Check } from "lucide-react";
 import { TabBar } from "./TabBar";
 import { ContentArea } from "./ContentArea";
 import { ContextMenu } from "./ContextMenu";
